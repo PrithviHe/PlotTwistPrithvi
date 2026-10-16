@@ -10,7 +10,7 @@ I am a statistician passionate about transforming data into meaningful insights 
 
 With **6+ years of experience in statistics, research, and data analysis**, I bring a strong foundation in statistical modelling, quantitative research, and analytical problem-solving. I'm currently expanding my expertise in **Machine Learning, Artificial Intelligence, Deep Learning, and Natural Language Processing** to build intelligent, practical solutions.
 
-### 🚀 What I'm Working On
+### 🚀 What I am Working On
 - 🌊 **HydroLoad-AI** — An AI-powered decision-support prototype for Rhine cargo planning using water-level forecasting and cargo capacity estimation.
 - 🤖 Exploring machine learning, predictive analytics, and AI applications.
 - 📊 Building end-to-end data science projects, from data cleaning and feature engineering to modelling and interactive dashboards.
