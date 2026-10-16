@@ -41,6 +41,6 @@ I am always happy to connect with fellow data enthusiasts, researchers, develope
 
 Let's exchange ideas, learn together, and build something meaningful.
 
-Thanks for stopping by — may your data be clean and your models surprise you for the right reasons! 😄
+Thanks for stopping by, may your data be clean and your models surprise you for the right reasons! 😄
 
 ⭐ Keep learning. Keep building. Embrace the plot twists.
