@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I am Prithvi Hegde!
+# 👋 Hey there!! I am Prithvi Hegde!
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
@@ -19,11 +19,11 @@ With **6+ years of experience in statistics, research, and data analysis**, I br
 - **Languages:** Python, R, SQL
 - **Data Analysis:** Pandas, NumPy, Excel
 - **Statistics:** Statistical Modelling, Regression, Time Series Analysis, Survey Analysis
-- **Machine Learning:** Scikit-learn, XGBoost
+- **Machine Learning:** Scikit-learn, ML Models
 - **Visualization:** Matplotlib, Seaborn, Streamlit
 - **Tools:** Git, GitHub, Jupyter Notebook
 
-### 🎯 What I'm Exploring Next
+### 🎯 What I am Exploring Next
 
 - Neural Networks and Deep Learning
 - Natural Language Processing (NLP)
