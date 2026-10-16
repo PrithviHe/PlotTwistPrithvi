@@ -23,10 +23,30 @@ With **6+ years of experience in statistics, research, and data analysis**, I br
 - **Visualization:** Matplotlib, Seaborn, Streamlit
 - **Tools:** Git, GitHub, Jupyter Notebook
 
-### 🎯 My Mission
-To bridge the gap between **statistical thinking and artificial intelligence**, turning complex data into actionable insights and impactful solutions.
+🎯 What I'm Exploring Next
 
-### 🌱 Always Learning, Always Building
-I believe that every dataset tells a story, every challenge offers an opportunity to learn, and every project is a chance to create something meaningful.
+Machine Learning and model evaluation
 
-📫 **Let's connect, collaborate, and build something impactful together!**
+Neural Networks and Deep Learning
+
+Natural Language Processing (NLP)
+
+Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+
+End-to-end data science and AI applications
+
+💡 My Philosophy
+
+Every dataset has a story. Every model has assumptions. And every prediction comes with a possible plot twist.
+
+I believe in learning by doing, staying curious, and building solutions that make a difference.
+
+🤝 Let's Connect!
+
+I'm always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
+
+Let's exchange ideas, learn together, and build something meaningful.
+
+Thanks for stopping by — may your data be clean and your models surprise you for the right reasons! 😄
+
+⭐ Keep learning. Keep building. Embrace the plot twists.
