@@ -1,12 +1,12 @@
-# PlotTwistPrithvi-
-Turning data into insights, one plot twist at a time!!
 
 
-# 👋 Hi, I'm Prithvi Hegde!
+# 👋 Hi, I am Prithvi Hegde!
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
-I'm a statistician passionate about transforming data into meaningful insights and building data-driven solutions to real-world problems.
+Welcome to my little corner of GitHub, where data meets curiosity, ideas turn into experiments, and every dataset has a story to tell.
+
+I am a statistician passionate about transforming data into meaningful insights and building data-driven solutions to real-world problems.
 
 With **6+ years of experience in statistics, research, and data analysis**, I bring a strong foundation in statistical modelling, quantitative research, and analytical problem-solving. I'm currently expanding my expertise in **Machine Learning, Artificial Intelligence, Deep Learning, and Natural Language Processing** to build intelligent, practical solutions.
 
