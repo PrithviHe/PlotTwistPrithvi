@@ -2,84 +2,31 @@
 Turning data into insights, one plot twist at a time!!
 
 
-# 👋 Hello World, I'm Prithvi!
+# 👋 Hi, I'm Prithvi Hegde!
 
-### 📊 Statistician by training. Data Scientist in the making. Plot twists included. 🚀
+### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
-Welcome to my little corner of GitHub, where data meets curiosity, ideas turn into experiments, and every dataset has a story to tell.
+I'm a statistician passionate about transforming data into meaningful insights and building data-driven solutions to real-world problems.
 
-I'm a statistician with **6+ years of experience in statistics, research, and data analysis**, currently exploring the exciting world of **Data Science, Machine Learning, and Artificial Intelligence**.
+With **6+ years of experience in statistics, research, and data analysis**, I bring a strong foundation in statistical modelling, quantitative research, and analytical problem-solving. I'm currently expanding my expertise in **Machine Learning, Artificial Intelligence, Deep Learning, and Natural Language Processing** to build intelligent, practical solutions.
 
-I enjoy finding patterns, solving problems, and turning complex data into meaningful insights. My goal is to bridge the gap between statistical thinking and intelligent, real-world solutions.
+### 🚀 What I'm Working On
+- 🌊 **HydroLoad-AI** — An AI-powered decision-support prototype for Rhine cargo planning using water-level forecasting and cargo capacity estimation.
+- 🤖 Exploring machine learning, predictive analytics, and AI applications.
+- 📊 Building end-to-end data science projects, from data cleaning and feature engineering to modelling and interactive dashboards.
 
----
+### 🛠️ Tech Stack
+- **Languages:** Python, R, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Statistics:** Statistical Modelling, Regression, Time Series Analysis, Survey Analysis
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Visualization:** Matplotlib, Seaborn, Streamlit
+- **Tools:** Git, GitHub, Jupyter Notebook
 
-### 🧑‍💻 A Little About Me
+### 🎯 My Mission
+To bridge the gap between **statistical thinking and artificial intelligence**, turning complex data into actionable insights and impactful solutions.
 
-- 📊 My roots are in Statistics and quantitative research.
-- 🐍 Exploring Python and building data science projects.
-- 🤖 Learning Machine Learning, Deep Learning, NLP, and Applied AI.
-- 🌊 Building **HydroLoad-AI**, a water-level forecasting and cargo-planning decision-support prototype for the Rhine.
-- 🔍 Interested in predictive modelling, time series, and data-driven decision-making.
-- 🌱 Always learning, experimenting, and discovering something new.
+### 🌱 Always Learning, Always Building
+I believe that every dataset tells a story, every challenge offers an opportunity to learn, and every project is a chance to create something meaningful.
 
-### 🛠️ My Toolbox
-
-**Languages & Data Analysis**
-- Python, R, SQL, Excel
-- Pandas, NumPy
-
-**Statistics & Modelling**
-- Regression Analysis
-- Time Series Analysis
-- Statistical Modelling
-- Survey Design and Analysis
-
-**Machine Learning & Visualization**
-- Scikit-learn, XGBoost
-- Matplotlib, Seaborn
-- Streamlit
-
-**Tools**
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-
-### 🚀 Featured Project
-
-🌊 **HydroLoad-AI — Rhine Cargo Advisor**
-
-An AI-powered decision-support prototype designed to help cargo planners anticipate water-level changes at Kaub on the Rhine and estimate vessel loading capacity.
-
-- 📈 Forecasts water levels up to seven days ahead.
-- 🤖 Uses machine learning to support predictive planning.
-- 🚢 Estimates cargo capacity based on vessel specifications and forecast water levels.
-- 🌦️ Combines hydrological and weather data in an interactive dashboard.
-
-*Because sometimes, a few centimetres of water can make a big difference.*
-
-### 🎯 What I'm Exploring Next
-
-- Machine Learning and model evaluation
-- Neural Networks and Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- End-to-end data science and AI applications
-
-### 💡 My Philosophy
-
-> Every dataset has a story. Every model has assumptions. And every prediction comes with a possible plot twist.
-
-I believe in learning by doing, staying curious, and building solutions that make a difference.
-
-### 🤝 Let's Connect!
-
-I'm always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
-
-Let's exchange ideas, learn together, and build something meaningful.
-
-**Thanks for stopping by — may your data be clean and your models surprise you for the right reasons!** 😄
-
----
-
-⭐ *Keep learning. Keep building. Embrace the plot twists.*
+📫 **Let's connect, collaborate, and build something impactful together!**
