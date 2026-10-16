@@ -23,12 +23,12 @@ With **6+ years of experience in statistics, research, and data analysis**, I br
 - **Visualization:** Matplotlib, Seaborn, Streamlit
 - **Tools:** Git, GitHub, Jupyter Notebook
 
-🎯 What I'm Exploring Next
+### 🎯 What I'm Exploring Next
 
-- **Neural Networks and Deep Learning
-- **Natural Language Processing (NLP)
-- **Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- **End-to-end data science and AI applications
+- Neural Networks and Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- End-to-end data science and AI applications
 
 💡 My Philosophy
 
