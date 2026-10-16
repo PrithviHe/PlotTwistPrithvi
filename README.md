@@ -25,28 +25,20 @@ With **6+ years of experience in statistics, research, and data analysis**, I br
 
 🎯 What I'm Exploring Next
 
-Machine Learning and model evaluation
-
-Neural Networks and Deep Learning
-
-Natural Language Processing (NLP)
-
-Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-
-End-to-end data science and AI applications
-
+- **Neural Networks and Deep Learning
+- **Natural Language Processing (NLP)
+- **Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
+- **End-to-end data science and AI applications
+- 
 💡 My Philosophy
 
 Every dataset has a story. Every model has assumptions. And every prediction comes with a possible plot twist.
-
 I believe in learning by doing, staying curious, and building solutions that make a difference.
 
 🤝 Let's Connect!
 
-I'm always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
-
+I am always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
 Let's exchange ideas, learn together, and build something meaningful.
-
 Thanks for stopping by — may your data be clean and your models surprise you for the right reasons! 😄
 
 ⭐ Keep learning. Keep building. Embrace the plot twists.
