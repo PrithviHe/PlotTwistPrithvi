@@ -29,7 +29,7 @@ With **6+ years of experience in statistics, research, and data analysis**, I br
 - **Natural Language Processing (NLP)
 - **Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
 - **End-to-end data science and AI applications
-- 
+
 💡 My Philosophy
 
 Every dataset has a story. Every model has assumptions. And every prediction comes with a possible plot twist.
