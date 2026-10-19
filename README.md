@@ -1,6 +1,6 @@
 
 
-# 👋 Hey there!! I am Prithvi Hegde!
+# 👋 Hey there.... I am Prithvi Hegde!
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
