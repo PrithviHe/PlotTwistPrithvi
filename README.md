@@ -1,6 +1,6 @@
 
 
-# 👋 Hey there.... I am Prithvi!!
+# 👋 <sub> Hey there.... I am Prithvi!! <sub>
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
