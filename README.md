@@ -45,6 +45,30 @@ An AI-powered decision-support prototype for Rhine cargo planning, using water-l
 
 ---
 
+## 🎯 What I'm Exploring Next
+
+- [ ] 🧠 Neural Networks & Deep Learning
+- [ ] 💬 Natural Language Processing (NLP)
+- [ ] 🦾 Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)
+- [ ] 🏗️ End-to-end data science and AI applications
+
+---
+
+## 💡 My Philosophy
+
+> *Every dataset has a story. Every model has assumptions. And every prediction comes with a possible plot twist.*
+>
+> I believe in learning by doing, staying curious, and building solutions that make a difference.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
+Let's exchange ideas, learn together, and build something meaningful.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -78,28 +102,6 @@ An AI-powered decision-support prototype for Rhine cargo planning, using water-l
 **Statistics:** Statistical Modelling · Regression · Time Series Analysis · Survey Analysis
 
 ---
-
-## 🎯 What I'm Exploring Next
-
-- [ ] 🧠 Neural Networks & Deep Learning
-- [ ] 💬 Natural Language Processing (NLP)
-- [ ] 🦾 Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)
-- [ ] 🏗️ End-to-end data science and AI applications
-
----
-
-## 💡 My Philosophy
-
-> *Every dataset has a story. Every model has assumptions. And every prediction comes with a possible plot twist.*
->
-> I believe in learning by doing, staying curious, and building solutions that make a difference.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
-Let's exchange ideas, learn together, and build something meaningful.
 
 <div align="center">
 
