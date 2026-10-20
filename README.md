@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey%20there,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
@@ -27,7 +27,7 @@ I'm a statistician passionate about transforming data into meaningful insights a
 <tr>
 <td width="60">🌊</td>
 <td>
-<b>HydroLoad-AI</b><br/>
+<b><a href="https://github.com/PrithviHe/Rhine-cargo-advisor">HydroLoad-AI</a></b><br/>
 An AI-powered decision-support prototype for Rhine cargo planning, using water-level forecasting and cargo capacity estimation.
 </td>
 </tr>
@@ -40,6 +40,16 @@ An AI-powered decision-support prototype for Rhine cargo planning, using water-l
 <td>Building end-to-end data science projects — from data cleaning and feature engineering to modelling and interactive dashboards.</td>
 </tr>
 </table>
+
+---
+
+## 📂 My Projects
+
+| Project | Description |
+|---|---|
+| 🌊 [**Rhine Cargo Advisor**](https://github.com/PrithviHe/Rhine-cargo-advisor) | A decision-support prototype that predicts the water level at Kaub seven days ahead and translates the forecast into estimated vessel cargo capacity. |
+| 💳 [**Home Credit Default Risk**](https://github.com/PrithviHe/ML_Project_Home_Credit_Default_Risk) | A machine learning project predicting loan default risk. |
+| 🎮 [**Gaming Project**](https://github.com/PrithviHe/Gaming_Project) | Fun game projects built with Python. |
 
 ---
 
