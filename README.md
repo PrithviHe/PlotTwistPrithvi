@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey%20there,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 
-<a href="https://github.com/PrithviHe">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9AB7&center=true&vCenter=true&width=600&lines=Statistician;Data+Scientist;AI+Enthusiast;Embracing+every+plot+twist" alt="Typing SVG" />
-</a>
+### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
 *Welcome to my little corner of GitHub — where data meets curiosity, ideas turn into experiments, and every dataset has a story to tell.*
 
