@@ -16,7 +16,7 @@
 
 I'm a statistician passionate about transforming data into meaningful insights and building data-driven solutions to real-world problems.
 
-- 🎓 **6+ years** of experience in statistics, research, and data analysis
+- 🎓 **6 years** of experience in statistics, research, and data analysis
 - 📐 Strong foundation in statistical modelling, quantitative research, and analytical problem-solving
 - 🌱 Currently levelling up in **Machine Learning, AI, Deep Learning, and NLP**
 - 💬 Always up for a good conversation about data, models, and their assumptions
@@ -81,7 +81,7 @@ Let's exchange ideas, learn together, and build something meaningful.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 **Machine Learning**
 
