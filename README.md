@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
@@ -118,6 +118,6 @@ Let's exchange ideas, learn together, and build something meaningful.
 
 ⭐ *Keep learning. Keep building. Embrace the plot twists.* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="Footer" />
 
 </div>
