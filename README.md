@@ -75,7 +75,7 @@ An AI-powered decision-support prototype for Rhine cargo planning, using water-l
 I am always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
 Let's exchange ideas, learn together, and build something meaningful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvihegde19940523/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvihegde19940523/)
 
 ---
 
