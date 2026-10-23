@@ -4,7 +4,8 @@
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
-*Welcome to my little corner of GitHub - where Data meets curiosity, ideas turn into experiments, and every dataset has a story to tell.*
+*Welcome to my little corner of GitHub!*<br/>
+*Where data meets curiosity, ideas turn into experiments, and every dataset has a story to tell.*
 
 </div>
 
