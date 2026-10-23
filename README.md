@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:2c5364,100:2193b0&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1c7ea0,50:2193b0,100:4facc6&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c7ea0,50:2193b0,100:4facc6&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+</picture>
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
@@ -104,7 +108,7 @@ Let's exchange ideas, learn together, and build something meaningful.
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></picture>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
@@ -118,6 +122,10 @@ Let's exchange ideas, learn together, and build something meaningful.
 
 ⭐ *Keep learning. Keep building. Embrace the plot twists.* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,50:2c5364,100:203a43&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4facc6,50:2193b0,100:1c7ea0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facc6,50:2193b0,100:1c7ea0&height=120&section=footer" alt="Footer" />
+</picture>
 
 </div>
