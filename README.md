@@ -4,7 +4,7 @@
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
-![Welcome to my little corner of GitHub!](https://img.shields.io/badge/Welcome%20to%20my%20little%20corner%20of%20GitHub!-87CEEB?style=for-the-badge)<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Welcome%20to%20my%20little%20corner%20of%20GitHub!&fontSize=28&fontColor=5DADE2" alt="Welcome to my little corner of GitHub!" /><br/>
 *Where data meets curiosity, ideas turn into experiments, and every dataset has a story to tell.*
 
 </div>
