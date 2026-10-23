@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ff5f6d&height=180&section=header&text=Hi,%20I%27m%20Prithvi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 
 ### 📊 Statistician | 📈 Data Scientist | 🤖 AI Enthusiast
 
@@ -75,7 +75,7 @@ An AI-powered decision-support prototype for Rhine cargo planning, using water-l
 I am always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
 Let's exchange ideas, learn together, and build something meaningful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvihegde19940523/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvihegde19940523/)
 
 ---
 
@@ -120,6 +120,6 @@ Let's exchange ideas, learn together, and build something meaningful.
 
 ⭐ *Keep learning. Keep building. Embrace the plot twists.* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5f6d,100:f7971e&height=120&section=footer" alt="Footer" />
 
 </div>
