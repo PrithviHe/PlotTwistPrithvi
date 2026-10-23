@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a statistician passionate about transforming data into meaningful insights and building data-driven solutions to real-world problems.
+I am a statistician passionate about transforming data into meaningful insights and building data-driven solutions to real-world problems.
 
 - 🎓 **6 years** of experience in statistics, research, and data analysis
 - 📐 Strong foundation in statistical modelling, quantitative research, and analytical problem-solving
@@ -21,7 +21,7 @@ I'm a statistician passionate about transforming data into meaningful insights a
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I am Working On
 
 <table>
 <tr>
@@ -72,8 +72,10 @@ An AI-powered decision-support prototype for Rhine cargo planning, using water-l
 
 ## 🤝 Let's Connect!
 
-I'm always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
+I am always happy to connect with fellow data enthusiasts, researchers, developers, and AI explorers.
 Let's exchange ideas, learn together, and build something meaningful.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvihegde19940523/?isSelfProfile=true)
 
 ---
 
